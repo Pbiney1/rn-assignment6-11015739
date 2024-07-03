@@ -21,7 +21,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
 
-    ```sh
+   ```sh
     git clone https://github.com/codetozombie/rn-assignment6-11015739.git
     cd react-native-ecommerce-app
     ```
